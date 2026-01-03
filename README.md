@@ -5,7 +5,7 @@ This repository contains my latest resume.
 ---
 
 ## 📎 Download Resume
-👉 [Click here to view/download](Pritam_Rangari_Resume.pdf)
+👉 [Click here to view/download](PritamRangariResume.pdf)
 
 ---
 
