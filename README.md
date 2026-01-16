@@ -10,9 +10,10 @@ I am Pritam Rangari, currently pursuing Information Technology Engineering at AI
 ---
 
 ## 🔗 Profiles
-- GitHub: https://github.com/pritamrangari27
-- Portfolio: https://pritamrangari.netlify.app
-- LinkedIn: https://www.linkedin.com/in/pritamrangari
+GitHub: https://github.com/pritamrangari27
+Portfolio: https://pritamrangari.netlify.app
+LinkedIn: https://www.linkedin.com/in/pritamrangari
+X (Twitter): https://x.com/Pritam2502
 
 ---
 
