@@ -5,7 +5,7 @@ I am Pritam Rangari, currently pursuing Information Technology Engineering at AI
 ---
 
 ## 📎 Download Resume
-👉 [Click here to view/download](PritamRangariResume.pdf)
+👉 [Click here to view/download](Pritam_Resume.pdf)
 
 ---
 
