@@ -1,4 +1,4 @@
-# Resume – Pritam Rangari
+# Pritam Rangari
 
 I am Pritam Rangari, currently pursuing Information Technology Engineering at AISSMS IOIT, Pune. I am passionate about learning new technologies and building practical software projects, with a growing interest in programming, databases, and emerging technologies like AI.
 ---
